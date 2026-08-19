@@ -1,0 +1,216 @@
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 1
+
+----- Datetime and Time Operations -----
+1. Current Date and Time
+2. Difference Between Two Dates
+3. Format Current Date
+4. Stopwatch
+5. Countdown
+6. Back
+Enter your choice: 1
+Current Date and Time: 2026-08-19 17:10:39.310195
+
+----- Datetime and Time Operations -----
+1. Current Date and Time
+2. Difference Between Two Dates
+3. Format Current Date
+4. Stopwatch
+5. Countdown
+6. Back
+Enter your choice: 2
+Enter first date (YYYY-MM-DD): 2024-09-21
+Enter second date (YYYY-MM-DD): 2025-09-21
+Difference: 365 days
+
+----- Datetime and Time Operations -----
+1. Current Date and Time
+2. Difference Between Two Dates
+3. Format Current Date
+4. Stopwatch
+5. Countdown
+6. Back
+Enter your choice: 6
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 2
+
+----- Mathematical Operations -----
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back
+Enter your choice: 1
+Enter a number: 6
+Factorial: 720
+
+----- Mathematical Operations -----
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back
+Enter your choice: 5
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 3
+
+----- Random Data Generation -----
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back
+Enter your choice: 3
+Enter password length: 6
+Generated Password: mJu4In
+
+----- Random Data Generation -----
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back
+Enter your choice: 5
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 4
+
+----- Unique ID Generator -----
+Generated UUID:
+814914fb-ff2d-4aa5-8882-46e93b049eb8
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 5
+
+----- File Operations -----
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back
+Enter your choice: 1
+Enter file name: project.txt
+File created successfully.
+
+----- File Operations -----
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back
+Enter your choice: 2
+Enter file name: project.txt
+Enter text: This is project file.
+Data written successfully.
+
+----- File Operations -----
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back
+Enter your choice: 3
+Enter file name: project.txt
+
+File Content:
+This is project file.
+
+----- File Operations -----
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back
+Enter your choice: 5
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 6
+
+----- Explore Module -----
+1. math
+2. datetime
+3. random
+4. string
+5. uuid
+Choose module: 1
+
+Some math module attributes:
+['__doc__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'cbrt', 'ceil', 'comb']
+
+====================================================
+        MULTI-UTILITY TOOLKIT
+====================================================
+1. Datetime and Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes
+7. Exit
+====================================================
+Enter your choice: 7
+
+Thank you for using Multi-Utility Toolkit!
+Program ended.
